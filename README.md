@@ -23,8 +23,6 @@ Which employee work arrangement has the most attrition rate.
 
 Provide recommendations for improving employee retention.
 
-**Tool Used**
-PowerBi
 
 **Analysis Performed**
 
@@ -86,3 +84,7 @@ Improve compensation and benefits: Better compensation accounts for 26.67% of re
 Investigate departments with high attrition: Customer Support, Operations and Sales should be prioritized. Conduct employee surveys and exit interviews to identify specific problems
 
 Investigate whether remote employees receive adequate support and communication.
+
+**Tool Used**
+
+Power Bi
