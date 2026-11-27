@@ -23,6 +23,10 @@ Which employee work arrangement has the most attrition rate.
 
 Provide recommendations for improving employee retention.
 
+**Tool Used**
+
+PowerBi
+
 **Analysis Performed**
 
 Attrition rate calculation
